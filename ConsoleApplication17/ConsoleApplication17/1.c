@@ -2,6 +2,7 @@
 #include <stdio.h>
 void main()
 {
+	// some change
 	int stones = 7000, max = 7000, num_of_stone_taken, calculated_taken_stone;
 	int num = 0;
 	char ch;
